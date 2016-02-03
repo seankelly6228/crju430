@@ -1,5 +1,22 @@
 ### Lesson 9 (Wednesday 2/3/16)
 
+#### Announcements
+
+* First exam date has been changed to Monday 2/15/16. Please make a note
+on your calendars.
+
+* I will return paper topics (with comments) that I have received on 
+Friday 2/5/16.
+
+* There will be an extra credit opportunity on Friday 2/12/16 at 1:00pm
+in Gambrell 153. This is the Department's annual [Ellis MacDougall Lecture](http://artsandsciences.sc.edu/crju/ellis-macdougall-lecture-series). If you attend
+this lecture (you must register your attendance with me at the event) *and* you
+write a 1-paragraph summary of the lecture (due on Wednesday 2/17/16), I will
+award you up to 5 extra credit points on the first exam. How many points you
+receive will depend on the quality of your 1-paragraph summary. Note that you 
+have to both attend the lecture and write the summary to receive this extra 
+credit.
+
 #### Revitalization of Social Disorganization Theory
 
 * After a period of limited interest in social disorganization theory,
@@ -37,23 +54,3 @@ and here are the measures they used
 <p align="center">
 <img src="/gfiles/sg-table1.tiff" width="600px">
 </p>
-
-#### The Evolution of Social Disorganization Theory
-
-* Racial residential segregation and concentrated poverty 
-* Family disruption
-* Destabilization of communities
-* Isolation and cultural coping mechanisms: "cultural values emerge
-that do not so much approve of violence and crime but rather define
-such actions as an unavoidable part of life in the ghetto."
-
-
-#### Contemporary Ideas: Concentrated Disadvantage and Collective Efficacy
-
-* Concentrated disadvantage: poverty, race and age composition,
-and family disruption.
-
-* Collective efficacy: ability of people who live in a community
-to exert control over what happens in that community *plus* the
-willingness of people who live in a community "trust and help
-one another." 

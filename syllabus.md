@@ -50,7 +50,7 @@ to you throughout the semester.
 Your grade in this class will be based on your grades for each of the
 following items:
 
-* Exam #1: on or about 2/10/16 (25%)
+* Exam #1: 2/15/16 (25%)
 * Exam #2: on or about 3/21/16 (25%)
 * Exam #3: Monday 5/2/16 at 9:00 (25%)
 * Research Paper: due on 4/25/16 (25%) 
