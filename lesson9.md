@@ -37,3 +37,23 @@ and here are the measures they used
 <p align="center">
 <img src="/gfiles/sg-table1.tiff" width="600px">
 </p>
+
+#### The Evolution of Social Disorganization Theory
+
+* Racial residential segregation and concentrated poverty 
+* Family disruption
+* Destabilization of communities
+* Isolation and cultural coping mechanisms: "cultural values emerge
+that do not so much approve of violence and crime but rather define
+such actions as an unavoidable part of life in the ghetto."
+
+
+#### Contemporary Ideas: Concentrated Disadvantage and Collective Efficacy
+
+* Concentrated disadvantage: poverty, race and age composition,
+and family disruption.
+
+* Collective efficacy: ability of people who live in a community
+to exert control over what happens in that community *plus* the
+willingness of people who live in a community "trust and help
+one another." 
