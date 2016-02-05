@@ -24,6 +24,7 @@ let me know if you have any difficulty accessing the content. Thank you!
 * Monday 2/1/16: Class cancelled; research paper topics due by email.
 * Lesson 9 ([notes](lesson9.md)); Wednesday 2/3/16
 * Quiz 3 ([link](quiz3.md)); Wednesday 2/3/16
+* Lesson 10 ([notes](lesson10.md)); Friday 2/5/16
 
 ## University Resources To Help You
 
