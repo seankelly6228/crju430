@@ -51,4 +51,5 @@ world where there are immediate and short-term rewards for engaging in crime
 and delinquency.
 
 * Let's consider some additional evidence about relatively high rates
-of criminal involvement. Here is a [paper](gfiles/c67.pdf).
+of criminal involvement. Here is an important [paper](gfiles/c67.pdf) about
+this issue.
