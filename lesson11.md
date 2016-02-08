@@ -17,7 +17,7 @@ Here is some analysis my colleagues and I conducted with the [National
 Longitudinal Survey of Youth](http://www.bls.gov/nls/):
 
 <p align="center">
-<img src="/gfiles/cpa.png" width="600px">
+<img src="/gfiles/cpa.png" width="700px">
 </p>
 
 * It follows from this analysis that the main driver of arrest rates
@@ -25,8 +25,11 @@ in communities is not people being arrested for the first time; instead
 it's because most people who are getting arrested are being re-arrested:
 
 <p align="center">
-<img src="/gfiles/age-curve.png" width="600px">
+<img src="/gfiles/age-curve.png" width="700px">
 </p>
+
+* We can see some additional evidence on this point from a recently 
+released Bureau of Justice Statistics [recidivism study](http://www.bjs.gov/content/pub/pdf/rprts05p0510.pdf).
 
 #### The "Chronic Offender" Problem
 
@@ -43,5 +46,5 @@ in the city in 1945 and who resided in the city continuously from ages
 (most, but not all, of these contacts turned into arrests).
 
 <p align="center">
-<img src="/gfiles/phil45.png" width="650px">
+<img src="/gfiles/phil45.png" width="700px">
 </p>
