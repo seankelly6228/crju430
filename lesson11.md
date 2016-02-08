@@ -9,7 +9,7 @@ age distribution of an initial arrest. Here is some data to illustrate
 the basis for that assumption:
 
 <p align="center">
-<img src="/gfiles/vt.png" width="500px">
+<img src="/gfiles/vt.png" width="550px">
 </p>
 
 * We can also look at this problem through the lens of self-report data.
@@ -17,7 +17,7 @@ Here is some analysis my colleagues and I conducted with the [National
 Longitudinal Survey of Youth](http://www.bls.gov/nls/):
 
 <p align="center">
-<img src="/gfiles/cpa.png" width="500px">
+<img src="/gfiles/cpa.png" width="600px">
 </p>
 
 * It follows from this analysis that the main driver of arrest rates
@@ -25,7 +25,7 @@ in communities is not people being arrested for the first time; instead
 it's because most people who are getting arrested are being re-arrested:
 
 <p align="center">
-<img src="/gfiles/age-curve.png" width="500px">
+<img src="/gfiles/age-curve.png" width="600px">
 </p>
 
 #### The "Chronic Offender" Problem
@@ -43,5 +43,5 @@ in the city in 1945 and who resided in the city continuously from ages
 (most, but not all, of these contacts turned into arrests).
 
 <p align="center">
-<img src="/gfiles/phil45.png" width="600px">
+<img src="/gfiles/phil45.png" width="650px">
 </p>
