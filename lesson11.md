@@ -28,6 +28,9 @@ it's because most people who are getting arrested are being re-arrested:
 <img src="/gfiles/age-curve.png" width="700px">
 </p>
 
+Note: this chart comes from the [Christensen report](gfiles/c67.pdf) we 
+discussed last time.
+
 * We can see some additional evidence on this point from a recently 
 released Bureau of Justice Statistics [recidivism study](http://www.bjs.gov/content/pub/pdf/rprts05p0510.pdf).
 
