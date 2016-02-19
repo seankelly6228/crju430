@@ -29,6 +29,9 @@ let me know if you have any difficulty accessing the content. Thank you!
 * Lesson 12 ([notes](lesson12.md)); Wednesday 2/10/16
 * Lesson 13 ([notes](lesson13.md)); Friday 2/12/16
 * Quiz 4 ([link](quiz4.md)); Friday 2/12/16
+* Exam 1 ([link](exam1.md)); Monday 2/15/16
+* Lesson 14 ([notes](lesson14.md)); Wednesday 2/17/16
+* Lesson 15 ([notes](lesson15.md)); Friday 2/19/16
 
 ## University Resources To Help You
 
